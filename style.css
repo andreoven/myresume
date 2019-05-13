@@ -13,3 +13,18 @@ main {
     background-position: top;
     position: relative;
 }
+
+.gif {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gif-text {
+    justify-content: center;
+}
+
+.gif-pic {
+    justify-content: center;
+}

@@ -4,3 +4,12 @@
     display: block;
     margin-top: 1rem;
 }
+
+main {
+    display: block;
+    height: 100vh;
+    background-image: url(flag.svg);
+    background-size: cover;
+    background-position: top;
+    position: relative;
+}
